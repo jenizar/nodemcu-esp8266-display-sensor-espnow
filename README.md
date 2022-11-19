@@ -17,3 +17,5 @@ NodeMCU ESP8266 board CH340 chip, DHT22, LDR, LCD 20x4 I2C, Breadboard, Jumper C
 Reference:
 
 https://learn.circuit.rocks/esp-now-the-fastest-esp8266-protocol
+
+https://www.instagram.com/p/ClJaF_sBY91/
